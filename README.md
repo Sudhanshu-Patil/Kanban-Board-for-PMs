@@ -1,6 +1,6 @@
 # Steps to start the program:
 
-`npm install`
+`npm install` <br>
 `npm start`
 
 ------------------------------------------------------------------------------------------------
